@@ -3,7 +3,7 @@ package mbarabbitmqdriver
 import (
 	"encoding/json"
 
-	"mba"
+	"github.com/ngodzik/mba"
 
 	"github.com/streadway/amqp"
 )
